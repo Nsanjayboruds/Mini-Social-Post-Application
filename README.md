@@ -166,11 +166,6 @@ Only **two collections** are used:
 3. Whitelist IP `0.0.0.0/0` for access
 4. Use the connection string in your backend `.env`
 
-## 📸 Screenshots
-
-| Login Page | Social Feed |
-|:---:|:---:|
-| Gradient background with glassmorphism card | Create post, feed cards, like & comment |
 
 ## 📝 License
 
