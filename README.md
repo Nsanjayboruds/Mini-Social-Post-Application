@@ -172,6 +172,7 @@ Only **two collections** are used:
 |:---:|:---:|
 |![alt text](image-1.png) |  ![alt text](image.png)|
 
+
 ## 📝 License
 
 This project was built as part of the **3W Full Stack Internship Assignment**.
