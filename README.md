@@ -170,7 +170,7 @@ Only **two collections** are used:
 
 | Login Page | Social Feed |
 |:---:|:---:|
-| Gradient background with glassmorphism card | Create post, feed cards, like & comment |
+|![alt text](image-1.png) |  ![alt text](image.png)|
 
 ## 📝 License
 
